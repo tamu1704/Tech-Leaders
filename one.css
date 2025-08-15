@@ -1,19 +1,14 @@
 .btn{
-    background-color: rgb(51, 51, 230);
+    background-color: rgb(241, 241, 241);
       color: rgb(250, 252, 250);
       padding: 10px 20px;
       border: none;
       border-radius: 5px;
       cursor: pointer;
-      margin-left: 50%;
+      margin-left: 100%;
 }
 
-.img{
-    margin-top : 20px;
-    margin-bottom : 60px;
-    padding-bottom: 10px;
-    
-}
+
 
 .btn:hover{
     background-color: rgb(15, 32, 188);
